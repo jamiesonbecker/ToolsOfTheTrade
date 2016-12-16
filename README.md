@@ -254,6 +254,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Telemetry | https://www.telemetrytv.com | [@telemetrytv](https://twitter.com/telemetrytv) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages.
 * Dashing | http://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 * Klipfolio | https://www.klipfolio.com | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard | Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team.
+* Grafana | http://grafana.org/ | [@Grafana](https://twitter.com/grafana) | 0 (self-hosted) | Grafana provides beautiful analytic dashboards for time series and metrics.
 
 #### Error/Exception Handling
 
